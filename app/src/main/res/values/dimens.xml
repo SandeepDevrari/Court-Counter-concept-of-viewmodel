@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="defaultMargin">16dp</dimen>
+    <dimen name="defaultTextSize">14sp</dimen>
+    <dimen name="largeTextSize">68sp</dimen>
+    <dimen name="defaultPadding">16dp</dimen>
+</resources>
